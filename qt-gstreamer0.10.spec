@@ -187,10 +187,10 @@ Requires:	%{name} = %{version}-%{release}
 Requires:	Qt5Declarative >= 5.0.0
 Obsoletes:	Qt5Declarative-plugin-gstreamer < 1.0
 
-%description -n Qt5Declarative-plugin-gstreamer
+%description -n Qt5Declarative-plugin-gstreamer0.10
 Qt GStreamer plugin for Qt5Declarative.
 
-%description -n Qt5Declarative-plugin-gstreamer -l pl.UTF-8
+%description -n Qt5Declarative-plugin-gstreamer0.10 -l pl.UTF-8
 Wtyczka Qt GStreamer dla Qt5Declarative.
 
 %prep
